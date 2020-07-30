@@ -1,0 +1,17 @@
+.mat-toolbar{
+background-color:#00FFFF ;
+color:#fff;
+height: 80px;
+}
+h1{
+font-weight: bolder;
+font-size: xx-large;
+font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+font-size: larger;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+}
+
